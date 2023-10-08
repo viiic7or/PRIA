@@ -1,0 +1,3 @@
+cron para R en linux:
+min h dia(mes, 1-30) mes dia(semana, 1-7) 
+* * * * * Rscript /ruta/a/Vacio.R
