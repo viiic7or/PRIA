@@ -1,0 +1,4 @@
+Instalar paquetes:
+install.packages("gapminder")
+Llamar librerías:
+library(gapminder)
