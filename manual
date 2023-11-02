@@ -5,3 +5,10 @@ Instalar paquetes:
 install.packages("gapminder")
 Llamar librerías:
 library(gapminder)
+
+Funciones vistas:
+1. str()
+
+
+Consultar una librería
+?gapminder -> ?NombreLibreria
