@@ -1,3 +1,6 @@
+Librerías instaladas hasta ahora:
+1. tidyverse.
+2. gapminder.
 Instalar paquetes:
 install.packages("gapminder")
 Llamar librerías:
