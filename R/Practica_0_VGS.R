@@ -90,7 +90,7 @@ print(booleano)
 #Las 3 en la misma línea
 paste0(numero, ", ", texto, ", ", booleano)
 
-#Vemos el tipo de las variables
+#Vemos el tipo de las variables 
 
 class(numero)
 class(texto)
